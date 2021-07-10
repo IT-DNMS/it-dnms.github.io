@@ -1,4 +1,4 @@
-# [IT 대나무 숲 GIthub 소개 페이지](https://it-dnms.github.io/)
+# [IT 대나무 숲 Github 소개 페이지](https://it-dnms.github.io/)
 
 IT 업종에 종사하는 사람들이 자신이 했던 활동을 기록으로 남겨 한 단계 더 성장하기 위한 곳
 
